@@ -1,0 +1,19 @@
+.intro{
+    background-color: whitesmoke;
+}
+.intro h1{
+    padding-left:5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.photo{
+    width: fit-content;
+}
+.subject table{
+    background-color: bisque;
+    padding:5%;
+}
+.subject td{
+    background-color: whitesmoke;
+    padding: 5px;
+    width:20%;
+}
